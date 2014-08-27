@@ -1,0 +1,50 @@
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Eclipse project files
+.classpath
+.project
+=======
+# Extracted from https://github.com/ulrich/macaron-factory/blob/master/.gitignore
+# Ignore all dotfiles...
+.*
+# except for .gitignore
+!.gitignore
+
+
+# Ignore Play! working directory #
+.classpath
+.project
+.settings
+data
+eclipse
+javadoc
+lib
+log
+logs
+modules
+nbproject
+precompiled
+tmp
+test-result
+eclipse
+server.pid
+*.db
+*.iws
+*.ipr
+*.iml
+*.log

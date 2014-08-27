@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ebola Prevention</string>
+    <string name="def">Ebola est une fièvre hémorragique virale aiguë accompagnée d\'une atteinte sévère de l\'hémostase et du système immunitaire conduisant à une grave immunodépression. C\'est une maladie très grave car elle peut entraîner la mort dans 90% des cas.</string>
+    <string name="slogan">Ensemble bouttons l\'Ebola hors de nos frontières</string>
+    <string name="cu">Si vous développez des symptômes de la maladie, appelez rapidement votre centre médical et informez-les de vos malaises</string>
+    <string name="cu2">Ecoutez les conseils. Vous devrez peut-être vous rendre à un hôpital spécial</string>
+    <string name="cu3">Gardez vos distances avec les autres pour ne pas les contaminer. Le vomi et la diarrhée peuvent contaminer les autres, faites y particulièrement attention.</string>
+    <string name="cu4">Si vous êtes en Côte d\'ivoire, rendez vous dans le centre de santé le plus proche ou  appelez le:</string>
+	<string name="prevm">Il n\’est pas toujours possible d\’identifier rapidement les patients présentant une maladie à virus Ebola car les symptômes initiaux peuvent manquer de spécificité. Pour cette raison, il est important que les agents de santé appliquent les précautions d\’usage à tous les patients, quel que soit le diagnostic, dans toute pratique professionnelle et à tout moment.</string>
+    <string name="prevm1">Ces précautions comportent l\’hygiène des mains, l\’hygiène respiratoire, le port d\’un équipement de protection individuel (selon le risque d\’éclaboussures ou d\’autres contacts avec des matières infectées), la sécurité des injections et des rites funéraires.</string>
+    
+    <!-- Contenu HTML -->
+    <string name="my_text">
+<![CDATA[
+   <html>
+   <body style="text-align:justify;">
+    <p>Ebola est une fièvre hémorragique virale aiguë accompagnée d\'une atteinte sévère de l\'hémostase et du système immunitaire conduisant à une grave immunodépression. C\'est une maladie très grave car elle peut entraîner la mort dans 90% des cas.</p>
+    <p> Il n’existe pas de vaccin homologué contre la maladie à virus Ebola. Plusieurs vaccins en sont au stade des essais, mais aucun n’est disponible pour un usage clinique.</p>
+    <p>Les cas graves doivent être placés en unité de soins intensifs. Les patients sont souvent déshydratés et ont besoin d’une réhydratation par voie orale au moyen de solutions d’électrolytes ou par voie intraveineuse.</p>
+    <p>Il n’existe pas de traitement spécifique. De nouveaux traitements médicamenteux sont en cours d’évaluation.</p>
+    </body>
+    </html>
+  ]]>
+    </string>
+    <!-- Contenu HTML -->
+    <string name="html_content">
+<![CDATA[
+            <html>
+            <body style="text-align:justify;">                              
+            <p><b>Ebola prevention (EP)</b> est une application de <i>sensibilisation sur La fièvre Ebola qui sévit actuellement en Afrique</i>.</p>
+            <p>EP a été dévelopée au cours d\'une session de \"Code Party\" inspiré de #hackthefuture et dirigée par <a href="http://www.sympliceboni.com>Symplice BONI</a></p>
+            <p>La carte interactive et l\'image du splach screen sont la proprieté de monsieur YOUZAN Florent</p>
+            <ul><li>Le code source de cette application sera disponible sur github.</li>
+            <li>le code source EP est entièrement gratuit et totalement libre. Vous pouvez le recuperez, modifiez...</li></ul>  
+            <p>Merci à tous ceux qui étaient présent et aussi à ceux qui n'ont pas pu venu.</p>
+            <p>Remerciement spécial à:</p>
+            <ul>
+                <li>Jéhovah, le Dieu en qui je crois!</li>
+                <li>monsieur Franck BAYE</li>
+                <li>monsieur Florent YOUZAN </li>
+                <li>Erwin SITTIE</li>               
+                <li>et à vous même</li>
+            </ul>
+            </body>
+            </html>
+        ]]>
+    </string>
+    <string name="sym">Symptômes</string>
+    <string name="init">Ebola késako?</string>
+    <string name="mic">Virus Ebola vu au microscope électronique en transmission</string>
+    <string name="signe">Les symptômes peuvent apparaître entre 2 à 21 jours après un contact avec une personne ou un corps contaminé. Ebola se manisfeste par une fièvre brusque, diarehée, toux, des maux de tête, maux de gorge, fatigue, et nausée. Des saignements possible observés dans la pluspart des cas.</string>
+    <string name="trans">
+<![CDATA[
+   <html>
+   <body style="text-align:justify;">
+    <p> Le virus Ebola s’introduit dans la population humaine après un contact étroit avec du sang, des sécrétions, des organes ou des liquides biologiques d’animaux infectés. En Afrique, l’infection a été constatée après la manipulation de chimpanzés, de gorilles, de chauves-souris frugivores, de singes, d’antilopes des bois et de porcs-épics retrouvés malades ou morts dans la forêt tropicale.</p>
+    <p>Il se propage ensuite dans les communautés par transmission interhumaine, à la suite de contacts directs (peau lésée ou muqueuses) avec du sang, des sécrétions, des organes ou des liquides biologiques de personnes infectées, ou de contacts indirects par l’intermédiaire d’environnements contaminés par ce type de liquides. Les rites funéraires au cours desquels les parents et amis du défunt sont en contact direct avec la dépouille peuvent également jouer un rôle dans la transmission du virus Ebola . Le sperme peut continuer de transmettre le virus jusqu’à sept semaines après la guérison clinique.</p>
+    <p>Des agents de santé se sont souvent infectés en traitant des cas suspects ou confirmés de maladie à virus Ebola. Cela s’est produit lors de contacts étroits avec les patients, lorsque les précautions anti-infectieuses n’ont pas été strictement appliquées.</p>
+    <p>Chez les personnes travaillant au contact de singes ou de porcs infectés par le virus Ebola Reston, on a constaté plusieurs cas d’infections humaines cliniquement asymptomatiques. Le RESTV semble donc moins pathogène pour l’être humain que les autres espèces.</p>
+    <p>Toutefois, les données disponibles ne concernent que des hommes adultes en bonne santé. Il serait donc prématuré de tirer des conclusions sur les effets de ce virus pour la santé dans tous les groupes de la population, notamment les sujets immunodéprimés, les personnes ayant des problèmes médicaux préexistants, les femmes enceintes ou les enfants. Il faudra faire de nouvelles études sur le RESTV avant de pouvoir tirer des conclusions définitives sur sa pathogénicité et sa virulence pour l’homme.</p>
+   
+   </body>
+    </html>
+  ]]>
+    </string>
+     <!-- Contenu HTML -->
+    <string name="prev">
+<![CDATA[
+    <html>
+   <body style="text-align:justify;">
+    <h4>Gardez vos distances!</h4>
+    <p>Ne touchez aucune personne infectée ni même ses liquides corporels. Les corps morts véhiculent le virus, ils doivent être enterrés avec précaution; Evitez de manipuler les cadavres.</p>
+    <p>LAVEZ-VOUS FREQUEMMENT LES MAINS, Utilisez de l\'eau et du SAVON ou encore des viruscides</p>
+    <p>Les animaux, et notamment les chauve-souris sont porteurs du virus EBOLA. NE PAS toucher ou manger les ”viandes de chasse” et NE PAS manger les chauve-souris.</p>
+    <p>Le virus est facilement détruit au contact du savon, de l\’eau de javel, des rayons du soleil, ou par le séchage du linge. La machine à laver tue le virus qui a été introduit dans les vêtements à travers les sécrétions corporelles infectées.</p>
+  </body>
+    </html>
+  ]]>
+    </string>
+    
+    
+   
+</resources>
